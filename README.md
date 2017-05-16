@@ -1,5 +1,5 @@
 ## Simple Neural Network in C++
-I am a beginner in machine learning, so this neural network is created for the purpose of learning.
+I am a beginner in machine learning, so this neural network is created for the purpose of learning. It's not fully functional but playing with it, is fun for me.
 
 ## Features:
 * It's fast and small
