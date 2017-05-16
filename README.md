@@ -1,8 +1,8 @@
 ## Simple Neural Network in C++
 I am a beginner in machine learning, so this neural network is created for the purpose of learning. It's not fully functional but playing with it, is fun for me.
 
-![Alt text](Neural-Network-in-Cpp/Screenshot from 2017-05-16 15-19-05.png?raw=true "Optional Title")
-![Alt text](Neural-Network-in-Cpp/Screenshot from 2017-05-16 15-19-57.png?raw=true "Optional Title")
+![XOR Network Testing](https://github.com/Kanhavishva/Neural-Network-in-Cpp/raw/master/Screenshot%20from%202017-05-16%2015-19-05.png?raw=true "Network Testing")
+![Error plot](https://github.com/Kanhavishva/Neural-Network-in-Cpp/raw/master/Screenshot%20from%202017-05-16%2015-19-57.png?raw=true "Error plot")
 
 ## Features:
 * It's fast and small
