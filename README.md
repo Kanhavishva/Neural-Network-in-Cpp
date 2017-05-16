@@ -15,5 +15,8 @@ I am a beginner in machine learning, so this neural network is created for the p
 * libgsl, gsl_blas  - GNU Scientific Library - https://www.gnu.org/software/gsl/‎
 * matplotlibcpp - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib - https://github.com/lava/matplotlib-cpp‎
 * libpython - Python Library - http://www.python.org/
-## Guide
+
+## Guide:
 * I followed the tutorial "Back-Propagation is very simple. Who made it Complicated ?" - https://medium.com/becoming-human/back-propagation-is-very-simple-who-made-it-complicated-97b794c97e5c
+* A Step by Step Backpropagation Example – Matt Mazur - https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
+* A Gentle Introduction to Artificial Neural Networks | The Clever Machine - https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/
