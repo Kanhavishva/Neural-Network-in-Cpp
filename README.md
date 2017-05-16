@@ -16,6 +16,13 @@ I am a beginner in machine learning, so this neural network is created for the p
 * matplotlibcpp - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib - https://github.com/lava/matplotlib-cpp‎
 * libpython - Python Library - http://www.python.org/
 
+## Depedencies Installation:
+* sudo apt install libgsl-dev
+* sudo apt install libpython2.7 <---- python2.7
+* sudo apt install libpython3.5 <---- python3 and above
+* pip install matplotlib <---- python2.7
+* pip3 install matplotlib <---- python3 and above
+
 ## Guide:
 * I followed the tutorial "Back-Propagation is very simple. Who made it Complicated ?" - https://medium.com/becoming-human/back-propagation-is-very-simple-who-made-it-complicated-97b794c97e5c
 * A Step by Step Backpropagation Example – Matt Mazur - https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
